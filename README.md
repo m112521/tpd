@@ -1,6 +1,4 @@
-# tpd
-Ternary Phase Diagram
-
+# Ternary Phase Diagram
 
 Install threejs and vite:
 
